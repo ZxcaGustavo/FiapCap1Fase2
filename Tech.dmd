@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Tech" id="993A8F0D-78D8-2B96-46F4-2E71D83322F0" version="3.5">
+<createdBy>Zxca-hunter</createdBy>
+<createdTime>2024-10-08 17:30:06 UTC</createdTime>
+<ownerDesignName>Tech</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>993A8F0D-78D8-2B96-46F4-2E71D83322F0</designId>
+</OSDM_Design>
